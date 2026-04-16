@@ -34,35 +34,35 @@ User inputs foods → Food-to-Nutrient mapping → Nutrient-to-Microbe mapping �
 
 **Mixed diet input (rice, paneer, spinach):**
 
-![Fig 01 – Basic output](screenshots/fig01_basic_output.png)
+![Fig 01 – Basic output](Screenshots/fig01_basic_output.png)
 
 **After matplotlib installed — chart visualization active:**
 
-![Fig 02 – Visualization enabled](screenshots/fig02_visualization_enabled.png)
+![Fig 02 – Visualization enabled](Screenshots/fig02_visualization_enabled.png)
 
 **Bar chart for carbohydrate-rich foods:**
 
-![Fig 03 – Carb chart](screenshots/fig03_carb_barchart.png)
+![Fig 03 – Carb chart](Screenshots/fig03_carb_barchart.png)
 
 **Output for protein-rich foods (almonds, yogurt, milk):**
 
-![Fig 04 – Protein output](screenshots/fig04_protein_output.png)
+![Fig 04 – Protein output](Screenshots/fig04_protein_output.png)
 
 **Bar chart for protein-rich foods:**
 
-![Fig 05 – Protein chart](screenshots/fig05_protein_barchart.png)
+![Fig 05 – Protein chart](Screenshots/fig05_protein_barchart.png)
 
 **Output for fat-rich foods (ghee, coconut, apple, blueberries):**
 
-![Fig 06 – Fat output](screenshots/fig06_fat_output.png)
+![Fig 06 – Fat output](Screenshots/fig06_fat_output.png)
 
 **Bar chart for fat-rich foods:**
 
-![Fig 07 – Fat chart](screenshots/fig07_fat_barchart.png)
+![Fig 07 – Fat chart](Screenshots/fig07_fat_barchart.png)
 
 **Error — unknown food entered ('cocunut' typo):**
 
-![Fig 08 – Error popup](screenshots/fig08_error_unknown_food.png)
+![Fig 08 – Error popup](Screenshots/fig08_error_unknown_food.png)
 
 ---
 
